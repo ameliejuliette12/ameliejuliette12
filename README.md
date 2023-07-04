@@ -1,6 +1,7 @@
 ### Hi there 👋
 💬 Ask me about studying BSc Computer Science in University of London, Goldsmiths!
-📫 How to reach me: enail me @ameliewibowo12@gmail.com!
+<br>
+📫 How to reach me: email me @ameliewibowo12@gmail.com!
 
 <!--
 **ameliejuliette12/ameliejuliette12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
